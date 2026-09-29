@@ -1,0 +1,7 @@
+{
+  "name": "gerenda-muhely",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Egyedi faszerkezetek – prémium magyar portfólió",
+  "scripts": { "start": "node server.cjs" }
+}

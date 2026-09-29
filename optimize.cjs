@@ -1,0 +1,3 @@
+const sharp=require('C:/Users/lakas/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');
+const path=require('path');
+(async()=>{for(const name of ['hero-pavilon-01.png','pavilon-02.jfif','pavilon-03.jfif','pavilon-04.jfif','pavilon-05.jfif','pavilon-06.jfif']){const input=path.join('images',name);const {width}=await sharp(input).metadata();const max=Math.min(width,name.startsWith('hero')?1600:1920);for(const w of [...new Set([Math.min(800,max),Math.min(1280,max),max])]){const out=`images/optimized/${path.parse(name).name}-${w}.webp`;await sharp(input).resize(w).webp({quality:83}).toFile(out);console.log(out)}}})();

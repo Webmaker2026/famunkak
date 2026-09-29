@@ -1,0 +1,341 @@
+{
+  "results": [
+    {
+      "width": 375,
+      "scrollWidth": 429,
+      "h1": 1,
+      "images": [
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-03-700.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-04-1920.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-06-902.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        }
+      ],
+      "badLinks": [],
+      "overflow": [
+        "project-photo landscape reveal from-right visible",
+        "",
+        "project-copy reveal visible",
+        "eyebrow",
+        "",
+        "",
+        "project-name",
+        "",
+        "project-photo wide reveal from-left visible",
+        "",
+        "project-copy reveal visible",
+        "eyebrow",
+        "",
+        "",
+        "project-name",
+        "",
+        ""
+      ],
+      "menuOpen": true,
+      "menuEscape": true,
+      "menuLink": true
+    },
+    {
+      "width": 430,
+      "scrollWidth": 435,
+      "h1": 1,
+      "images": [
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-03-700.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-04-1920.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-06-902.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        }
+      ],
+      "badLinks": [],
+      "overflow": [
+        "project-photo wide reveal from-left visible",
+        "",
+        "project-copy reveal visible",
+        "eyebrow",
+        "",
+        "",
+        "project-name",
+        "",
+        ""
+      ]
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "images": [
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-03-700.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-04-1920.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-06-902.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        }
+      ],
+      "badLinks": [],
+      "overflow": [
+        ""
+      ]
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "h1": 1,
+      "images": [
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-03-700.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-04-1920.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-06-902.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        }
+      ],
+      "badLinks": [],
+      "overflow": [
+        ""
+      ]
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "images": [
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-03-700.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-04-1920.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-06-902.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        }
+      ],
+      "badLinks": [],
+      "overflow": [
+        ""
+      ]
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1920,
+      "h1": 1,
+      "images": [
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-03-700.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-04-1920.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-06-902.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-02-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-800.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/pavilon-05-1280.webp",
+          "loaded": true
+        },
+        {
+          "src": "images/optimized/hero-pavilon-01-1600.webp",
+          "loaded": true
+        }
+      ],
+      "badLinks": [],
+      "overflow": [
+        ""
+      ]
+    },
+    {
+      "reducedMotion": "none"
+    }
+  ],
+  "errors": []
+}
