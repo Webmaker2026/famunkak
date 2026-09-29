@@ -2,7 +2,7 @@
   "results": [
     {
       "width": 375,
-      "scrollWidth": 429,
+      "scrollWidth": 375,
       "h1": 1,
       "images": [
         {
@@ -48,22 +48,6 @@
       ],
       "badLinks": [],
       "overflow": [
-        "project-photo landscape reveal from-right visible",
-        "",
-        "project-copy reveal visible",
-        "eyebrow",
-        "",
-        "",
-        "project-name",
-        "",
-        "project-photo wide reveal from-left visible",
-        "",
-        "project-copy reveal visible",
-        "eyebrow",
-        "",
-        "",
-        "project-name",
-        "",
         ""
       ],
       "menuOpen": true,
@@ -72,7 +56,7 @@
     },
     {
       "width": 430,
-      "scrollWidth": 435,
+      "scrollWidth": 430,
       "h1": 1,
       "images": [
         {
@@ -118,14 +102,6 @@
       ],
       "badLinks": [],
       "overflow": [
-        "project-photo wide reveal from-left visible",
-        "",
-        "project-copy reveal visible",
-        "eyebrow",
-        "",
-        "",
-        "project-name",
-        "",
         ""
       ]
     },

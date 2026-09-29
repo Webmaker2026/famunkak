@@ -35,7 +35,11 @@ Az előtető/kocsibeálló kategóriához nem érkezett saját referenciafotó. 
 
 Az ajánlatkérő gombok a kapcsolat szekcióhoz vezetnek; az ottani fő gomb közvetlen telefonhívást indít. Nincs látszatűrlap vagy nem működő beküldés. A mobilmenü natív modális dialog, fókuszkorlátozással, Escape bezárással és visszaadott fókusszal. A tartalom JavaScript nélkül is látható. A csökkentett mozgás beállítás kikapcsolja az animációkat.
 
-## Élesítés előtt
+## Elvégzett ellenőrzések
+
+Edge/Chromium böngészőben: 375, 430, 768, 1024, 1440 és 1920 px szélesség. Minden méreten a dokumentum szélessége megegyezik a viewporttal, mind a 10 megjelenített kép betöltődik, nincs hibás belső hivatkozás vagy konzolhiba. Egyetlen H1 szerepel az oldalon. Ellenőrizve a mobilmenü megnyitása, linkválasztás, Escape, Tab-fókuszciklus és fókusz-visszaállítás; a telefonhivatkozások és a reduced-motion viselkedés. Asztali és mobil képernyőképek vizuálisan is ellenőrizve. Ez nem terepi Core Web Vitals mérés.
+
+## Élesítés előtti teendők
 
 - A Gerenda Műhely demómárkanév, telefonszám és bemutató megjelölés cseréje valódi ügyféladatokra.
 - A munkák és szolgáltatási állítások jóváhagyása; tényleges referenciák, képfelhasználási jogok és saját kocsibeálló/előtető fotó ellenőrzése.
